@@ -1,0 +1,13 @@
+{
+  "name": "citrus-fruit-html",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://megstamp.github.io/citrus-fruit-html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
